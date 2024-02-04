@@ -1,0 +1,138 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+  color: var(--text_color);
+  background-color: var(--background);
+  --background: #2e3440;
+  --not_a_button: #4c566a;
+  --card: #3b4252;
+  --text_color: #d8dee9;
+  --green: #a3be8c;
+  --red: #bf616a;
+  --yellow: #ebcb8b;
+}
+
+.highlight {
+  background-color: var(--card);
+  text-decoration: underline;
+}
+
+main {
+  min-height: 100vh;
+  padding: 4rem 2rem;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#card {
+  background-color: var(--card);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 70vw;
+  height: 30vh;
+  border-radius: 10px;
+}
+
+#sentence {
+  background-color: var(--card);
+  font-size: 1.4em;
+  user-select: none;
+}
+
+#card:hover {
+  cursor: pointer;
+}
+
+.buttons {
+  display: flex;
+  margin-top: 1rem;
+  flex-direction: column;
+  justify-content: center;
+  user-select: none;
+  align-items: center;
+}
+
+.button {
+  padding: 1.5rem;
+  margin: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 40px;
+  height: 40px;
+  border: 2px solid var(--text_color);
+  border-radius: 5px;
+}
+
+.res {
+  display: flex;
+}
+
+.replay {
+  margin: 1rem;
+  padding: 1.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 40px;
+  border: 2px solid var(--text_color);
+  border-radius: 5px;
+}
+
+.button:hover {
+  cursor: pointer;
+  background-color: var(--text_color);
+  color: var(--background);
+}
+
+.replay:hover {
+  cursor: pointer;
+  background-color: var(--text_color);
+  color: var(--background);
+}
+
+#unknown:hover {
+  background-color: var(--red);
+  color: var(--background);
+}
+
+#known:hover {
+  background-color: var(--green);
+  color: var(--background);
+}
+
+#process:hover {
+  background-color: var(--yellow);
+  color: var(--background);
+}
+
+#known {
+  border: 2px solid var(--green);
+  color: var(--green);
+}
+
+#unknown {
+  border: 2px solid var(--red);
+  color: var(--red);
+}
+
+#process {
+  border: 2px solid var(--yellow);
+  color: var(--yellow);
+}
