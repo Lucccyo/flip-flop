@@ -1740,5 +1740,197 @@ export const sentences = [
       "Je suis ravi de vous aider avec toutes les questions que vous pourriez avoir.",
     english: "I am pleased to help you with any questions you may have.",
   },
+  {
+    french: "L'enchère a attiré de nombreux participants compétitifs.",
+    english: "The auction attracted many competitive participants.",
+  },
+  {
+    french: "Toutes les ressources nécessaires sont à votre disposition pour mener à bien le projet.",
+    english: "All necessary resources are at your disposal to successfully carry out the project.",
+  },
+  {
+    french: "Je suis là pour vous assister avec toutes vos questions et préoccupations.",
+    english: "I am here to assist you with all your questions and concerns.",
+  },
+  {
+    french: "La procédure disciplinaire doit être suivie en cas de violation des règles.",
+    english: "The disciplinary procedure must be followed in case of rule violation.",
+  },
+  {
+    french: "Ayant montré une grande détermination, elle a obtenu des résultats exceptionnels.",
+    english: "Having shown great determination, she achieved outstanding results.",
+  },
+  {
+    french: "Un panneau avec des instructions claires indique la direction à suivre.",
+    english: "A sign with clear instructions indicates the direction to follow.",
+  },
+  {
+    french: "Il est difficile de rester éveillé pendant les longs voyages en voiture.",
+    english: "It's challenging to stay awake during long car journeys.",
+  },
+  {
+    french: "Le réveil sonne chaque matin pour rappeler le début de la journée.",
+    english: "The alarm clock rings every morning to signal the start of the day.",
+  },
+  {
+    french: "Les tâches répétitives peuvent devenir ennuyeuses à la longue.",
+    english: "Repetitive tasks can become tedious over time.",
+  },
+  {
+    french: "La semaine avant les vacances est toujours très chargée au travail.",
+    english: "The week before vacation is always hectic at work.",
+  },
+  {
+    french: "Je me sens maître de la situation malgré les défis.",
+    english: "I feel on top of it all despite the challenges.",
+  },
+  {
+    french: "Surmonter les obstacles est une lutte constante dans la vie.",
+    english: "Overcoming obstacles is a constant struggle in life.",
+  },
+  {
+    french: "Les retards constants sont une source d'agacement pour les voyageurs.",
+    english: "Constant delays can be annoying for travelers.",
+  },
+  {
+    french: "La simplicité d'utilisation de cette application facilite la vie de tous les jours.",
+    english: "The ease of use of this application makes everyday life easier.",
+  },
+  {
+    french: "Consacrer du temps à des activités créatives peut être gratifiant.",
+    english: "Devoting time to creative activities can be rewarding.",
+  },
+  {
+    french: "Ce n'est pas tout sombre et pessimiste ; il y a toujours de l'espoir.",
+    english: "It's not all doom and gloom; there is always hope.",
+  },
+  {
+    french: "Elle a réussi à remplir toutes les exigences du projet avec succès.",
+    english: "She managed to fulfill all the requirements of the project successfully.",
+  },
+  {
+    french: "Un menuisier qualifié est essentiel pour des projets de construction de qualité.",
+    english: "A skilled joiner is essential for quality construction projects.",
+  },
+  {
+    french: "Une serviette propre est à votre disposition dans la salle de bain.",
+    english: "A clean towel is at your disposal in the bathroom.",
+  },
+  {
+    french: "Des conflits constants peuvent avoir des conséquences préjudiciables sur l'équipe.",
+    english: "Constant conflicts can have detrimental consequences on the team.",
+  },
+  {
+    french: "Les personnes en détresse ont besoin d'un soutien immédiat et empathique.",
+    english: "Those in distress need immediate and empathetic reassurance.",
+  },
+  {
+    french: "Il est important de ne pas internaliser trop de stress au travail.",
+    english: "It is important not to internalize too much stress at work.",
+  },
+  {
+    french: "Une décision soudaine peut parfois entraîner des conséquences inattendues.",
+    english: "A sudden decision can sometimes lead to unexpected consequences.",
+  },
+  {
+    french: "Lors des fortes pluies, les rues peuvent être inondées rapidement.",
+    english: "During heavy rains, streets can be flooded quickly.",
+  },
+  {
+    french: "La réassurance est souvent nécessaire dans des moments difficiles.",
+    english: "Reassurance is often needed in challenging times.",
+  },
+  {
+    french: "Les parents doivent aller chercher leurs enfants à l'école à l'heure prévue.",
+    english: "Parents need to pick up their children from school at the scheduled time.",
+  },
+  {
+    french: "En chemin du retour, je passerai par l'épicerie pour acheter quelques articles.",
+    english: "On the way back, I'll stop by the grocery store to pick up a few items.",
+  },
+  {
+    french: "Faire la navette tous les jours peut être épuisant, mais c'est nécessaire.",
+    english: "Commuting every day can be exhausting, but it's necessary.",
+  },
+  {
+    french: "Il ne faut pas se laisser tromper par les apparences extérieures.",
+    english: "One should not be misled by outward appearances.",
+  },
+  {
+    french: "L'agent agit en tant qu'intermédiaire entre les deux parties en conflit.",
+    english: "The agent acts as an intermediary between the two conflicting parties.",
+  },
+  {
+    french: "Il a été décidé de discontinuer la production de ce modèle particulier.",
+    english: "It was decided to discontinue the production of this particular model.",
+  },
+  {
+    french: "Le magasin est surapprovisionné en produits, ce qui entraîne des réductions.",
+    english: "The store is overstocked with products, leading to discounts.",
+  },
+  {
+    french: "Il y a une obligation légale de payer les impôts à temps chaque année.",
+    english: "There is a legal obligation to pay taxes on time every year.",
+  },
+  {
+    french: "L'interaction sociale est importante pour le bien-être mental et émotionnel.",
+    english: "Social interaction is important for mental and emotional well-being.",
+  },
+  {
+    french: "L'analphabétisme peut être un obstacle majeur à l'accès à l'éducation.",
+    english: "Illiteracy can be a major barrier to accessing education.",
+  },
+  {
+    french: "Il est facile de critiquer, mais il est plus constructif d'offrir des solutions.",
+    english: "It is easy to criticize, but it is more constructive to offer solutions.",
+  },
+  {
+    french: "L'approche de l'entraîneur est intransigeante, mais elle donne des résultats.",
+    english: "The coach's approach is uncompromising, but it yields results.",
+  },
+  {
+    french: "La nouvelle a totalement dévasté la communauté locale.",
+    english: "The news totally devastated the local community.",
+  },
+  {
+    french: "Quand il pleut, je resterai à l'intérieur.",
+    english: "When it rains, I will stay indoors.",
+  },
+  {
+    french: "Lorsqu'elle arrive, je lui dirai la bonne nouvelle.",
+    english: "When she arrives, I will tell her the good news.",
+  },
+  {
+    french: "Quand tu finis tes devoirs, nous irons prendre une glace.",
+    english: "When you finish your homework, we will go get ice cream.",
+  },
+  {
+    french: "Lorsque la température baisse, le chauffage s'allumera automatiquement.",
+    english: "When the temperature drops, the heating will turn on automatically.",
+  },
+  {
+    french: "Quand nous aurons terminé la réunion, nous discuterons du plan d'action.",
+    english: "When we finish the meeting, we will discuss the action plan.",
+  },
+  {
+    french: "Si j'avais su, j'aurais apporté un parapluie.",
+    english: "If I had known, I would have brought an umbrella.",
+  },
+  {
+    french: "S'il avait étudié davantage, il aurait réussi l'examen.",
+    english: "If he had studied more, he would have passed the exam.",
+  },
+  {
+    french: "Si elle m'avait invité, j'aurais participé à la fête.",
+    english: "If she had invited me, I would have attended the party.",
+  },
+  {
+    french: "S'ils avaient écouté les conseils, ils n'auraient pas fait cette erreur.",
+    english: "If they had listened to the advice, they wouldn't have made that mistake.",
+  },
+  {
+    french: "Si nous avions réservé à l'avance, nous aurions eu une meilleure place.",
+    english: "If we had booked in advance, we would have had a better seat.",
+  }
 ];
 
