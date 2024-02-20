@@ -3,7 +3,6 @@ const sentence = document.getElementById("sentence");
 const red_btn = document.getElementById("unknown");
 const green_btn = document.getElementById("known");
 const replay_btn = document.getElementById("replay");
-const yellow_btn = document.getElementById("process");
 const block_indicator = document.getElementById("indicator");
 
 import { sentences } from "./data/data.js";
@@ -50,7 +49,6 @@ function update_indicator() {
 function unplayable_style() {
   green_btn.style.visibility = "hidden";
   red_btn.style.visibility = "hidden";
-  yellow_btn.style.visibility = "hidden";
   sentence.innerHTML = "End, refresh to play again";
   card.style.cursor = "default";
 }
@@ -58,7 +56,6 @@ function unplayable_style() {
 function playable_style() {
   green_btn.style.visibility = "visible";
   red_btn.style.visibility = "visible";
-  yellow_btn.style.visibility = "visible";
   card.style.cursor = "pointer";
 }
 
@@ -119,12 +116,6 @@ green_btn.addEventListener("click", () => {
 });
 
 red_btn.addEventListener("click", () => {
-  let to_learn = block.splice(ofs, 1);
-  block.push(to_learn[0]);
-  display_sentence(block[ofs].french);
-});
-
-yellow_btn.addEventListener("click", () => {
   let to_learn = block.splice(ofs, 1);
   block.push(to_learn[0]);
   display_sentence(block[ofs].french);
