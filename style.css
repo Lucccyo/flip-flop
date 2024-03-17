@@ -136,3 +136,20 @@ main {
   border: 2px solid var(--yellow);
   color: var(--yellow);
 }
+
+.card-progress {
+  display: flex;
+  flex-direction: column;
+}
+
+#progress {
+  margin: 2rem;
+  height: 2rem;
+  border-radius: 5px;
+}
+
+
+#file {
+  color: var(--not_a_button);
+  margin-bottom: 2px;
+}
