@@ -32,7 +32,7 @@ export const sentences = [
   {
     type: "cambridge 1",
     french: "J'ai rédigé le brouillon et dois maintenant recopier sur une feuille propre.",
-    english: "I have written a draft essay, and now I need to write a fair copy.",
+    english: "I wrote the draft and now have to copy it out.",
   },
   {
     type: "cambridge 1",
@@ -61,7 +61,7 @@ export const sentences = [
   },
   {
     type: "cambridge 1",
-    french: "Les gens qui resquillent m'énervent.",
+    french: "Les gens qui passe devant dans la file m'énervent.",
     english: "People who jump the queue annoy me.",
   },
   {
@@ -141,8 +141,8 @@ export const sentences = [
   },
   {
     type: "cambridge 1",
-    french: "Nous avons marché des kilomètres, je suis trop crevée pour continuer. Joe était complètement lessivé après sa longue journée de travail.",
-    english: "We've been walking for miles; I'm too worn out to go any further. Joe was completely worn out after a long day at work.",
+    french: "Nous avons marché des kilomètres, je suis trop crevée pour continuer.",
+    english: "We've been walking for miles; I'm too worn out to go any further.",
   },
   {
     type: "cambridge 1",
@@ -172,7 +172,7 @@ export const sentences = [
   {
     type: "cambridge 1",
     french: "La douleur d'un calcul rénal est atroce.",
-    english: "The pain of passing a kidney stone is excruciating.",
+    english: "The pain of a heart operation is excruciating.",
   },
 // ____________________________________2________________________________________
   {
@@ -233,7 +233,7 @@ export const sentences = [
     english: "	We were utterly unprepared for the number of applications we received.",
   }, {
     type: "cambridge 2",
-    french: "	Je me rappelle parfaitement notre visite en Colombie Britannique en 1907. — Je me rappelle notre visite en Colombie Britannique en 1907 comme si c'était hier.",
+    french: "Je me rappelle notre visite en Colombie Britannique en 1907 comme si c'était hier.",
     english: "	I vividly recall our visit to British Columbia in 1907.",
   }, {
     type: "cambridge 2",
@@ -269,8 +269,8 @@ export const sentences = [
     english: "	Ben always faints when he sees blood.",
   }, {
     type: "cambridge 2",
-    french: "Tom saw a faint image on the screen.",
-    english: "	Tom vit une image floue à l'écran.",
+    french: "Tom vit une image floue à l'écran.",
+    english: "Tom saw a faint image on the screen.",
   }, {
     type: "cambridge 2",
     french: "	Il y avait une légère odeur de rose dans la pièce.",
